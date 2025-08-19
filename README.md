@@ -1,4 +1,4 @@
-# Salut, je suis Ash ! 👋
+# Salut👋
 
 Je suis en formation **Technicien Supérieur Systèmes et Réseaux (TSSR)** et passionnée par la **cybersécurité**, l’**administration Windows/Linux** et l’**automatisation**.  
 
